@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 echo -e "Loading..."
 APP="Ubuntu"
-var_disk="2"
+var_disk="4"
 var_cpu="1"
-var_ram="512"
+var_ram="1024"
 var_os="ubuntu"
 var_version="22.04"
 NSAPP=$(echo ${APP,,} | tr -d ' ')
