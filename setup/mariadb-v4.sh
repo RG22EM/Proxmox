@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 echo -e "Loading..."
 APP="MariaDB"
-var_disk="30"
+var_disk="10"
 var_cpu="1"
 var_ram="1024"
 var_os="debian"
